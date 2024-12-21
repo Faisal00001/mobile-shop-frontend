@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Headphones",
+        "description": "Experience crystal-clear sound and immersive audio with our high-quality noise-cancelling wireless headphones. Featuring long-lasting battery life, comfortable ear cushions, and advanced Bluetooth connectivity, these headphones are perfect for music lovers and professionals who need uninterrupted calls and entertainment on the go.",
+        "price": 99.99,
+        "category": "Electronics",
+        "brand": "SoundPro",
+        "image": "https://i.ibb.co.com/vhpmdCM/Wireless-Headphones.jpg",
+        "featured": true
+    },
+    {
+        "id": 2,
+        "name": "Smartphone X12",
+        "description": "Discover cutting-edge technology with the Smartphone X12. Equipped with a high-performance processor, stunning edge-to-edge display, and an advanced camera system, this phone is designed for seamless multitasking, immersive gaming, and professional-quality photography, ensuring an unparalleled mobile experience.",
+        "price": 699.99,
+        "category": "Electronics",
+        "brand": "TechCorp",
+        "image": "https://i.ibb.co.com/fpMkK1J/Smartphone-X12.jpg",
+        "featured": true
+    },
+    {
+        "id": 3,
+        "name": "Running Shoes",
+        "description": "Stay ahead of the competition with our premium running shoes, crafted for maximum comfort, durability, and performance. Designed with breathable mesh fabric, cushioned soles, and shock-absorbing technology, these shoes provide excellent grip and support for both casual joggers and professional athletes.",
+        "price": 49.99,
+        "category": "Footwear",
+        "brand": "SportMax",
+        "image": "https://i.ibb.co.com/7KWjKqR/Running-Shoes.jpg",
+        "featured": false
+    },
+    {
+        "id": 4,
+        "name": "Leather Wrist Watch",
+        "description": "Elevate your style with our elegant leather wristwatch. Featuring a classic design, water-resistant casing, and a durable leather strap, this watch is a timeless accessory suitable for any occasion, from business meetings to formal gatherings. Its precise quartz movement ensures reliable and accurate timekeeping.",
+        "price": 149.99,
+        "category": "Accessories",
+        "brand": "TimeWear",
+        "image": "https://i.ibb.co.com/M6cT2Dj/Leather-Wrist-Watch.jpg",
+        "featured": true
+    },
+    {
+        "id": 5,
+        "name": "Travel Backpack",
+        "description": "Carry your essentials in style with our spacious and lightweight travel backpack. Featuring multiple compartments, padded laptop storage, and water-resistant material, this backpack is ideal for work, school, or weekend getaways. Its ergonomic design ensures maximum comfort and back support during long trips.",
+        "price": 39.99,
+        "category": "Bags",
+        "brand": "PackMaster",
+        "image": "https://i.ibb.co.com/wMx3nxb/Travel-Backpack.jpg",
+        "featured": false
+    },
+    {
+        "id": 6,
+        "name": "Gaming Laptop",
+        "description": "Unleash your gaming potential with our top-tier gaming laptop, built for high-performance gaming and productivity. Equipped with the latest graphics card, lightning-fast processor, and high-refresh-rate display, this laptop delivers smooth gameplay and exceptional visual quality. Its advanced cooling system ensures peak performance during intense gaming sessions.",
+        "price": 1199.99,
+        "category": "Electronics",
+        "brand": "GameTech",
+        "image": "https://i.ibb.co.com/LvYwB1S/Gaming-Laptop.jpg",
+        "featured": true
+    },
+    {
+        "id": 7,
+        "name": "Designer Handbag",
+        "description": "Make a lasting impression with our luxurious designer handbag. Crafted from premium leather with exquisite craftsmanship, this handbag combines elegance and practicality. With multiple compartments and a sleek design, it’s the perfect accessory for both everyday use and special occasions.",
+        "price": 249.99,
+        "category": "Bags",
+        "brand": "StyleBag",
+        "image": "https://i.ibb.co.com/L0BFD8S/Designer-Handbag.jpg",
+        "featured": true
+    },
+    {
+        "id": 8,
+        "name": "Bluetooth Speaker",
+        "description": "Enjoy powerful, crystal-clear sound wherever you go with our portable Bluetooth speaker. Its compact design, long-lasting battery, and wireless connectivity make it the ideal companion for outdoor adventures, parties, and home entertainment. Experience high-definition audio with deep bass and rich sound.",
+        "price": 59.99,
+        "category": "Electronics",
+        "brand": "AudioMax",
+        "image": "https://i.ibb.co.com/64DsjJN/Bluetooth-Speaker.jpg",
+        "featured": false
+    },
+    {
+        "id": 9,
+        "name": "Formal Shoes",
+        "description": "Step up your style game with our premium formal shoes, designed for maximum comfort and a professional look. Featuring high-quality leather, cushioned insoles, and a classic design, these shoes are perfect for office wear, formal events, and special occasions where style and elegance are essential.",
+        "price": 79.99,
+        "category": "Footwear",
+        "brand": "OfficeStyle",
+        "image": "https://i.ibb.co.com/jz3scVD/Formal-Shoes.jpg",
+        "featured": false
+    },
+    {
+        "id": 10,
+        "name": "Smart TV 55''",
+        "description": "Experience stunning visuals and immersive sound with our 55-inch Smart TV. Featuring 4K Ultra HD resolution, built-in streaming apps, and voice control compatibility, this TV transforms your home entertainment setup into a cinema-like experience.",
+        "price": 799.99,
+        "category": "Electronics",
+        "brand": "VisionTech",
+        "image": "https://i.ibb.co.com/6BxmzMJ/Smart-TV-55.jpg",
+        "featured": true
+    },
+    {
+        "id": 11,
+        "name": "Fitness Tracker Watch",
+        "description": "Stay fit and connected with our advanced fitness tracker watch. Track your workouts, monitor heart rate, and receive notifications from your phone. Its lightweight design and long battery life make it an essential fitness companion.",
+        "price": 129.99,
+        "category": "Accessories",
+        "brand": "FitLife",
+        "image": "https://i.ibb.co.com/vsPDj5q/Fitness-Tracker-Watch.jpg",
+        "featured": false
+    },
+    {
+        "id": 12,
+        "name": "Coffee Maker",
+        "description": "Brew delicious coffee at home with our top-rated coffee maker. With programmable brewing options, a large water reservoir, and a built-in grinder, you can enjoy café-style coffee anytime.",
+        "price": 149.99,
+        "category": "Home Appliances",
+        "brand": "BrewMaster",
+        "image": "https://i.ibb.co.com/xj0L866/Coffee-Maker.jpg",
+        "featured": true
+    },
+    {
+        "id": 13,
+        "name": "Wireless Mouse",
+        "description": "Enhance your productivity with our ergonomic wireless mouse. Designed for precision and comfort, it features adjustable DPI settings, long battery life, and seamless connectivity for work and gaming.",
+        "price": 29.99,
+        "category": "Electronics",
+        "brand": "TechGear",
+        "image": "https://i.ibb.co.com/Gsc82JC/Wireless-Mouse.jpg",
+        "featured": false
+    },
+    {
+        "id": 14,
+        "name": "Electric Kettle",
+        "description": "Boil water quickly and efficiently with our electric kettle. Featuring a sleek design, automatic shut-off, and fast heating, it’s perfect for tea, coffee, and instant meals.",
+        "price": 34.99,
+        "category": "Home Appliances",
+        "brand": "KitchenMate",
+        "image": "https://i.ibb.co.com/Vg6RbWG/Electric-Kettle.jpg",
+        "featured": false
+    }
+]

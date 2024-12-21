@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Electronics",
+        "products_count": 6,
+        "image": "https://i.ibb.co.com/pd37rvN/Electronics.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Footwear",
+        "products_count": 2,
+        "image": "https://i.ibb.co.com/K9WZL60/Footwear.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Accessories",
+        "products_count": 2,
+        "image": "https://i.ibb.co.com/K9mn731/Accessories.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Bags",
+        "products_count": 2,
+        "image": "https://i.ibb.co.com/sVm8YnQ/Bags.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Home Appliances",
+        "products_count": 2,
+        "image": "https://i.ibb.co.com/WFxLdkg/Home-Appliances.jpg"
+    }
+]
